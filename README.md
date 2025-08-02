@@ -23,5 +23,10 @@ This project analyses employee demographics, performance, and satisfaction data 
   - Attrition status (target variable)
 
 ## 🛠 Tools & Technologies
-- **SQL** – Data exploration, transformation, and insights extraction  
 - **Power BI** – Data modelling and interactive visualisations  
+- **Measures** - Some use of measures to calculate Attrition Rate and creating of a custom column for the Weighted Satisfaction Score.
+
+## Reflections
+- When dealing with humans, the biggest mistake is assuming they behave the same.
+- Satisfaction score for different departments might be differ as different job roles have different problems.
+- Data Exploration > Dashboarding
