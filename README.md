@@ -1,4 +1,4 @@
-# 🧑‍💼 Employee Attrition Analysis – Power BI & SQL Project
+# 🧑‍💼 Employee Attrition Analysis – Power BI Project
 
 ## 📌 Project Title
 **Identifying Drivers of Employee Attrition for Strategic Retention Planning**
